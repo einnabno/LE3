@@ -70,4 +70,4 @@ font-size: 50px;
 			<br><br><br><br><br><br>
 			<br><br><br><br><br><br>
 			<br><br><br><br><br><br>
- 			<center><a href = "svg.html" class ="BACK TO HOME">&laquo; BACK</a></center>
+ 			<center><a href = "svg.php" class ="BACK TO HOME">&laquo; BACK</a></center>
