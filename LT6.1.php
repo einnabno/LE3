@@ -1149,7 +1149,7 @@ font-size: 50px;
          style="stroke-width:0.00540586">you can do it</tspan></text>
   </g>
 </svg>
- 			<center><a href = "svg.html" class ="BACK TO HOME">&laquo; BACK</a></center>
+ 			<center><a href = "svg.php" class ="BACK TO HOME">&laquo; BACK</a></center>
 			<br><br>
 </body>
 </html>
