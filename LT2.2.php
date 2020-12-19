@@ -52,7 +52,7 @@
 		<br>
 		<br>
 		<br>
-			<center><a href = "css.html" class ="BACK TO HOME">&laquo; BACK</a></center>
+			<center><a href = "css.php" class ="BACK TO HOME">&laquo; BACK</a></center>
 		<br>
 	</body>
 </html>
